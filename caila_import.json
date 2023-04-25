@@ -1,7 +1,7 @@
 {
   "project" : {
-    "id" : "shablon_zvuki",
-    "name" : "shablon_zvuki",
+    "id" : "kod_bota-971214-zbE",
+    "name" : "kod_bota-971214-zbE",
     "folder" : "/jaicp"
   },
   "settings" : {
@@ -9,10 +9,11 @@
     "spellingCorrection" : false,
     "classificationAlgorithm" : "sts",
     "timezone" : "UTC",
-    "shared" : false,
-    "extendedSettings": {
-      "tokenizerEngine": "default"
-    }
+    "extendedSettings" : {
+      "tokenizerEngine" : "default"
+    },
+    "businessShared" : false,
+    "business" : false
   },
   "intents" : [ ],
   "entities" : [ ],
